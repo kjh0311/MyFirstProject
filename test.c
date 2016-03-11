@@ -11,5 +11,7 @@ void main()
 		case 1:
 			puts("doskid2@naver.com");
 		break;
+		case 2:
+			puts("010-7630-9994");
 	}
 }
